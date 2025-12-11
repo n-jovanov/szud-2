@@ -8,7 +8,8 @@ int main()
 
     printf("Helloasd world!\n");
 
-    int x = 5;
+    int x = 3;
+  
     printf("%d\n", x);
     return 0;
 }
