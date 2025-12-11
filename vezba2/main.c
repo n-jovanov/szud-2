@@ -8,7 +8,7 @@ int main()
 
     printf("Helloasd world!\n");
 
-    int x = 3;
+    int x = 33;
   
     printf("%d\n", x);
     return 0;
