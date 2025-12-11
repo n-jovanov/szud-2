@@ -1,2 +1,4 @@
 *.layout
 *.cbp
+/vezba2/bin
+/vezba2/obj
